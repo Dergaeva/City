@@ -1,0 +1,15 @@
+{
+"name": "Dergaeva/composertask",
+"version": "master",
+"repositories":[
+{
+"type": "vcs",
+"url": "https://github.com/Dergaeva/project11.git"
+}
+],
+"autoload": {
+"psr-0": {
+"classes": "./"
+}
+}
+}
